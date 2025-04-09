@@ -1,6 +1,6 @@
-# 🧠 NLP Text Analysis on News Articles — Blackcoffer Assignment
+# 🧠 NLP Text Analysis on News Articles .
 
-This project was part of a Data Science interview assignment from **Blackcoffer**. It involves web scraping of article content from provided URLs and performing **Natural Language Processing (NLP)** to extract meaningful metrics.
+This project was part of a Data Science . It involves web scraping of article content from provided URLs and performing **Natural Language Processing (NLP)** to extract meaningful metrics.
 
 ---
 
